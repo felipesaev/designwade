@@ -2,6 +2,8 @@ body {
     margin:0;
     padding: 0;
     font-family: "montserrat";
+    background-color: #010101;
+    color:#fff;
 }
 
 .header {
@@ -21,7 +23,7 @@ body {
     text-transform: uppercase;
     text-align: center;
     margin-top: 100px;
-    font-size: 60px;
+    font-size: 90px;
     letter-spacing: 14px;
     margin-bottom: 10px;
     
@@ -38,5 +40,6 @@ body {
 p {
     padding: 0 14px;
     text-align: justify;
+    font-size: 40px;
 
 }
